@@ -77,4 +77,4 @@ Made with ❤️ using [Streamlit](https://streamlit.io/) and [OpenAI](https://p
 
 ## 🌟 Star This Repo
 
-If you find this project helpful or inspiring, consider ⭐ starring the repository. It motivates and supports the development of open-source projects like this.
+If you find this project helpful or inspiring, consider ⭐ starring the repository.
