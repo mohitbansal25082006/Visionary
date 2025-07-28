@@ -4,6 +4,12 @@ A fully functional AI Image Generator app built using **Streamlit**, **OpenAI**,
 
 ---
 
+## 🖼️ Preview
+
+![App Screenshot](preview.png)
+
+---
+
 ## 🚀 Features
 
 - 🔧 Easy-to-use sidebar for prompt construction  
